@@ -1,0 +1,51 @@
+﻿id_order,nama_pelanggan,tanggal_order,jenis_sepatu,bahan_sepatu,tingkat_kekotoran,jenis_layanan,lama_pengerjaan,biaya,kasir
+CS012,Audrey,17/05/2026,sneakers,Suede,berat,Deep Clean,express (3 jam),127000,
+CS037,Fania,20 bulan 5 2026,sneakers,-,Ringan,repaint,13 jam,121000,Mba Ayu
+CS002,Maya,18 bulan 6 2026,sneakers,Kanvas,RINGAN,cuci reguler,,36000,Mba Ayu
+CS021,  Nessa  ,2026-04-19,,Kulit,RINGAN,cuci reguler,,34000,Bang Bagus
+CS011,Nessa,,Sneakers!!,kanvas,Ringan,unyellowing,express (3 jam),27000,
+CS026,Fania**,,Sneakers,Suede,Berat,deep clean,1hari,105000,Kak Rian
+CS031,Fania,04/04/2026,SNEAKERS,Kanvas,RINGAN,unyellowing,1 hari,37000,
+CS016,Rakhis,04/22/2026,Sepatu Kulit,-,Berat,Deep Clean,1hari,109000,Bang Dedi
+CS041,Fania,03/09/2026,Sepatu Sekolah,Kulit,Ringan,Repaint,,-50000,Bang Dedi
+CS009,Maya,24/05/2026,,Kulit,Sedang,deep clean,3 hari,109000,Kak Rian
+CS025,Nessa,05/03/2026,,Kanvas,berat,Cuci Reguler,-5 jam,31000,
+CS023,Moren,06/05/2026,Sneakers,Suede,RINGAN,deep clean,,Rp 139rb,Mba Ayu
+CS029,Audrey,,,-,ringan,repaint,,123000,Bang Bagus
+CS028,Brily,12 bulan 4 2026,sneakers,-,ringan,CUCI REGULER,,,Kak Rian
+CS038,Dani,,Boots,Suede,RINGAN,Deep Clean,,119000,
+CS004,Maya,18/04/2026,Sepatu Futsal,Kulit,Sedang,Repaint,express (3 jam),143000,
+CS005,Dea,26 bulan 5 2026,Sepatu Kanvas,-,Sedang,Repaint,13 jam,86000,Bang Bagus
+CS042,Isa,17 bulan 3 2026,Sepatu Kanvas,kanvas,RINGAN,repaint,2 hari,84000,Mba Ayu
+CS027,Rakhis,16/05/2026,,,Berat,repaint,1 hari,Rp 82rb,Bang Bagus
+CS017,Zahra,25/02/2026,Sepatu Futsal,kanvas,RINGAN,repaint,1hari,Rp 102rb,Bang Bagus
+CS043,Fania,17/06/2026,Sneakers,Kanvas,Berat,Deep Clean,2 hari,,
+CS019,Dea,2026-04-14,Sepatu Futsal,Mesh,berat,Deep Clean,express (3 jam),147000,
+CS003,Dani,8 bulan 1 2026,,,Ringan,Unyellowing,,gratis,
+CS008,Dea,05/23/2026,Boots,Mesh,,repaint,,120000,Bang Dedi
+CS023,Dani,22 bulan 3 2026,Sneakers,Suede,RINGAN,deep clean,,Rp 139rb,Mba Ayu
+CS039,Dea,2026-04-13,Boots,,Berat,deep clean,2 hari,Rp 115rb,Bang Bagus
+CS032,Arsel,09/01/2026,Sepatu Sekolah,Suede,Berat,Deep Clean,1hari,Rp 117rb,
+CS020,Brily,20 bulan 4 2026,SNEAKERS,Kanvas,,Unyellowing,2 hari,41000,Kak Rian
+CS034,Brily,7 bulan 3 2026,,kanvas,berat,Cuci Reguler,23 jam,35000,
+CS015,Dau,25 bulan 4 2026,,Suede,Ringan,Deep Clean,1 hari,132000,Bang Dedi
+CS008,Audrey,03/02/2026,Boots,Mesh,,repaint,,120000,Bang Dedi
+CS022,Dani,26 bulan 1 2026,Sepatu Kulit,Kanvas,RINGAN,Cuci Reguler,express (3 jam),Rp 41rb,
+CS010,Isa,05/26/2026,Boots,Kanvas,Ringan,cuci reguler,3 hari,49000,
+CS007,Rakhis,6 bulan 4 2026,Sepatu Sekolah,kanvas,RINGAN,Unyellowing,express (3 jam),34000,Kak Rian
+CS001,Maya,21 bulan 3 2026,Sepatu Futsal,Mesh,Berat,Cuci Reguler,1hari,48000,
+CS035,Zahra,7 bulan 6 2026,Sneakers,-,RINGAN,cuci reguler,express (3 jam),44k,Bang Bagus
+CS013,Radit,01/01/2026,Sneakers,Kanvas,Sedang,Cuci Reguler,2 hari,30000,Mba Ayu
+CS036,Dea,2026-01-18,Sepatu Sekolah,Kulit,Berat,Unyellowing,1hari,23000,Bang Bagus
+CS006,Fania,01/20/2026,Sepatu Kulit,-,Ringan,repaint,,Rp 131rb,
+CS024,Radit,2026-03-21,Sepatu Sekolah,Kanvas,RINGAN,unyellowing,,44000,Bang Dedi
+CS040,Audrey,,Sepatu Kanvas,kanvas,RINGAN,Deep Clean,express (3 jam),133000,
+CS018,Fania,2026-04-19,Sepatu Kanvas,-,Ringan,Deep Clean,1hari,117000,Kak Rian
+CS033,Maya,2026-05-16,Sepatu Kanvas,Kulit,Berat,unyellowing,18 jam,43000,Bang Bagus
+CS030,Moren,05/23/2026,Boots,-,berat,Unyellowing,19 jam,35000,
+CS014,Nessa,,Boots,Suede,Berat,Deep Clean,22 jam,Rp 130rb,Kak Rian
+CS044,Maya,2026-02-14,Sneakers,Mesh,Sedang,Deep Clean,2 hari,118000,Mba Ayu
+CS045,Nessa,15 bulan 2 2026,Sepatu Kanvas,Kanvas,Ringan,Cuci Reguler,1 hari,32000,Bang Dedi
+CS046,Fania,03/17/2026,Sepatu Kulit,Kulit,Berat,Repaint,3 hari,128000,Kak Rian
+CS047,Audrey,2026-03-24,Boots,Suede,Berat,Deep Clean,2 hari,135000,Mba Ayu
+CS048,Dani,04/02/2026,Sepatu Futsal,Mesh,Sedang,Cuci Reguler,1hari,42000,Bang Bagus
